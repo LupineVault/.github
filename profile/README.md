@@ -29,7 +29,7 @@ LupineVault aims to create the largest browser game repository _ever_, and to do
 
 ---
 
-Inspired by [InfinityLoop's]() [InfinityGamer]() site 
+Inspired by [InfinityLoop's](https://github.com/InfinityLoop1) [InfinityGamer](https://github.com/InfinityGamer-Game-Site) site 
 
-Games from [NZP](), [Eaglercraft](), and [HTML-Games-V2]()
+Games from [NZP](https://github.com/nzp-team), [Eaglercraft](https://eaglercraft.com/), and [HTML-Games-V2](https://github.com/tw31122007/HTML-Games-V2)
 
