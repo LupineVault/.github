@@ -1,12 +1,8 @@
-# LupineVault
+![LupineVault Title](https://github.com/LupineVault/LupineVault/blob/9b48de37df4ba9a69dc613817c497c84ce27e57a/tinyTitle.png)
+
 A collection over over 350 games written in HTML5
 
 There are currently ```392``` games in the LupineVault. They may not all be on the repo _yet_, as they take up an enormous amount of space and will take a long time to fully copy to a repo.
-
----
-## Our Mission
-
-LupineVault aims to create the largest browser game repository _ever_, and to do that we need contributions, which brings us to our next part...
 
 ---
 ## Want to contribute? Listen up:
@@ -29,7 +25,7 @@ LupineVault aims to create the largest browser game repository _ever_, and to do
 
 ---
 
-Inspired by [InfinityLoop's](https://github.com/InfinityLoop1) [InfinityGamer](https://github.com/InfinityGamer-Game-Site) site 
+Inspired by [InfinityLoop's]() [InfinityGamer]() site 
 
-Games from [NZP](https://github.com/nzp-team), [Eaglercraft](https://eaglercraft.com/), and [HTML-Games-V2](https://github.com/tw31122007/HTML-Games-V2)
+Games from [NZP](), [Eaglercraft](), and [HTML-Games-V2]()
 
