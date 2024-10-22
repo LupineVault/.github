@@ -1,8 +1,8 @@
-![LupineVault Title](https://github.com/LupineVault/LupineVault/blob/9b48de37df4ba9a69dc613817c497c84ce27e57a/tinyTitle.png)
+# ![LupineVault Title](https://github.com/LupineVault/LupineVault/blob/9b48de37df4ba9a69dc613817c497c84ce27e57a/tinyTitle.png)
 
-A collection over over 350 games written in HTML5
+A collection of over 390 games written in HTML5
 
-There are currently ```392``` games in the LupineVault. They may not all be on the repo _yet_, as they take up an enormous amount of space and will take a long time to fully copy to a repo.
+There are currently ```392``` games in the LupineVault. They may not all be on the repo _yet_, as they take up an enormous amount of space and will take a long time to copy fully.
 
 ---
 ## Want to contribute? Listen up:
@@ -10,11 +10,11 @@ There are currently ```392``` games in the LupineVault. They may not all be on t
 #### Requirements:
 
 - Must be able to run statically
-- Must run off of one (1) index.html _or_ main.html (You can have as many files as you want, but there must be only one _entry_ file).
+- Must run off of one (1) index.html (You can have as many files as you want, but there must be only an index.html).
 - Can be online
 - Can be mature
 > [!IMPORTANT]
-> Must be marked as Mature.
+> Must be marked as mature.
 
 #### How to get it in the vault:
 
