@@ -1,6 +1,6 @@
 <div align="center">
   
-# ![LupineVault Title](assets/images/tinyTitle.png)
+# ![LupineVault Title](https://raw.githubusercontent.com/LupineVault/LupineVault/refs/heads/main/assets/images/tinyTitle.png)
 
 A collection of almost 400 HTML5 games with cloaking and integrated chat
 
